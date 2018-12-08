@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248520785696",
+    "firebase_url": "https://kshstagram.firebaseio.com",
+    "project_id": "kshstagram",
+    "storage_bucket": "kshstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248520785696:android:464de20f06f58ec5",
+        "android_client_info": {
+          "package_name": "com.ksh.kshstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248520785696-frdef698gbfdp9ve4tika66fe61biegu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksh.kshstagram",
+            "certificate_hash": "3a634a91e468e0ba790c0c1120f972fee95ec83b"
+          }
+        },
+        {
+          "client_id": "248520785696-sk6b3vfjouv9k55avdnoappabsdds2p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBt4KWd0uC8NLi9mrZT5e7qiwc8K0fOKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248520785696-sk6b3vfjouv9k55avdnoappabsdds2p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
